@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.head{
+    background-color: rgb(10, 73, 124);
+}
+
+h1{
+    color: white;
+    top:30px ;
+    font-size: 4em;
+    margin-left: 60px;
+    position: relative;
+}
+p{
+    padding: 10px;
+    font-size: 2em;
+    color: rgb(14, 52, 83);
+}
+.form{
+    float: right;
+    padding-right: 80px;
+    line-height: 30px;
+    
+}
+h6{
+    display: block;
+}
+table{
+    position: relative;
+    left: 60%;
+      
+}
+span{
+    position: relative;
+    left: 75%;
+    color: aliceblue;
+}
+.create input{
+    height:30px ;
+}
+.submit{
+width: 180px;
+height: 40px;
+border-radius: 10px;
+color: white;
+background-color: rgb(50, 204, 23);
+}
